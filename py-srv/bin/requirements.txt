@@ -1,0 +1,6 @@
+bottle
+bottle-sqlalchemy
+
+# undocumented dep
+psycopg2-binary
+sqlalchemy-cockroachdb
